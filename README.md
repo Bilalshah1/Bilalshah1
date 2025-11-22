@@ -1,5 +1,15 @@
 ### 👋 Hi, I'm Bilal Shah  
-🎓 GIKI '26 – Computer Science  
+### 🎓 GIKI '26 – Computer Science
+### 💻 I am a Backend Developer
+
+### 🌐 Socials:
+
+<a href="https://www.linkedin.com/in/bilal-shah-548218224/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:bs7322186@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 
 ### 💻 Tech Stack
 
