@@ -47,8 +47,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
+## <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="22" /> LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/bilalshah123)
 
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/bilalshah123?ext=heatmap)
 
 ### 📊 GitHub Stats
 
