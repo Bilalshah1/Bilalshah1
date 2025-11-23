@@ -48,7 +48,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&border=0&radius=20)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Bilalshah1?theme=dark&border=0&radius=20)
 
 
 ### 📊 GitHub Stats
