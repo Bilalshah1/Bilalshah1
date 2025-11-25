@@ -23,10 +23,9 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-FF0000?style=for-the-badge&logo=rest&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
@@ -47,12 +46,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="22" /> LeetCode Stats
+### <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="22" /> LeetCode Stats
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bilalshah123)
 
 
 ### 📊 GitHub Stats
-
 <div align="center">
   <a href="https://github.com/Bilalshah1">
     <img src="https://github-readme-stats.vercel.app/api?username=Bilalshah1&show_icons=true&theme=radical&count_private=true" height="180" alt="Bilal's GitHub Stats" />
