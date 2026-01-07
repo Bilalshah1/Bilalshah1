@@ -1,6 +1,5 @@
 ### 👋 Hi, I'm Bilal Shah  
 ### 🎓 GIKI '26 – Computer Science
-### 💻 I am a Backend Developer
 
 ### 🌐 Socials:
 
