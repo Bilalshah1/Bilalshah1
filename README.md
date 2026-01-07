@@ -48,18 +48,20 @@
 
 
 ### 📊 GitHub Stats
+
 <div align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Bilalshah1&style=flat-square&color=blue" alt="Profile Views" />
+
+  <br/><br/>
+
+  <!-- GitHub Stats -->
   <a href="https://github.com/Bilalshah1">
     <img src="https://github-readme-stats.vercel.app/api?username=Bilalshah1&show_icons=true&theme=radical&count_private=true" height="180" alt="Bilal's GitHub Stats" />
   </a>
-  <a href="https://github.com/Bilalshah1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilalshah1&layout=compact&theme=radical&card_width=320" height="180" alt="Most Used Languages" />
-  </a>
-</div>
 
-<div align="center">
-  <br/>
-  <a href="https://github.com/Bilalshah1">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilalshah1&theme=radical" alt="Bilal's Streak" />
-  </a>
+  <br/><br/>
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalshah1&theme=radical" alt="Contribution Graph" />
 </div>
