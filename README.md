@@ -50,18 +50,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
+
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Bilalshah1&style=flat-square&color=blue" alt="Profile Views" />
 
   <br/><br/>
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Bilalshah1">
-    <img src="https://github-readme-stats.vercel.app/api?username=Bilalshah1&show_icons=true&theme=radical&count_private=true" height="180" alt="Bilal's GitHub Stats" />
-  </a>
+  <!-- GitHub Metrics (All-in-One Stats) -->
+  <img src="https://metrics.lecoq.io/Bilalshah1?template=classic&isocalendar=1&languages=1&followup=1&people=1&achievements=1&stars=1&repositories=1&config.timezone=Asia/Karachi" alt="GitHub Metrics" />
 
   <br/><br/>
 
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalshah1&theme=radical" alt="Contribution Graph" />
+
 </div>
