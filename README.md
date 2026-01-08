@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=300&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi+I'm+Bilal+Shah;Backend+Engineer;Currently+building+Privacomply+Extension;Detecting+GDPR+%26+PDPA+Violations+in+Privacy+Policies)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=300&color=36BCF7&center=true&vCenter=true&width=800&repeat=false&lines=Hi+I'm+Bilal+Shah;Backend+Engineer;Building+Privacy+Compliance+Tools;Detecting+GDPR+%26+PDPA+Violations+in+Privacy+Policies)
+
 
 
 ### 🌐 Socials:
