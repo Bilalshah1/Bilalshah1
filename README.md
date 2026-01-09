@@ -1,6 +1,10 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=21&pause=250&color=58A6FF&center=true&vCenter=true&width=900&repeat=false&lines=Hi+I'm+Bilal+Shah+—+a+Backend+Engineer+Currently+building+Privacy+Compliance+tool+to+detect+GDPR+%26+PDPA+violations+in+website+privacy+policies.)
+## Hi, I'm Bilal Shah 👋
 
+I'm a **Backend Engineer** exploring things like **web servers, caching, and distributed systems**, and building products that focus on **effective utilitarianism**.
 
+🎓 **Final Year Project (FYP):** Working on a privacy compliance tool to detect **GDPR & PDPA violations** in website privacy policies.
+
+Involving my **left brain and fingers** to code better, every day.
 
 
 ### 🌐 Socials:
