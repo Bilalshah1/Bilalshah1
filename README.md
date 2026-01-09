@@ -1,10 +1,9 @@
 ## Hi, I'm Bilal Shah 👋
 
-I'm a **Backend Engineer** exploring things like **web servers, caching, and distributed systems**, and building products that focus on **effective utilitarianism**.
-
-🎓 **Final Year Project (FYP):** Working on a privacy compliance tool to detect **GDPR & PDPA violations** in website privacy policies.
-
-Involving my **left brain and fingers** to code better, every day.
+- 💻 **Backend Engineer** exploring **web servers, caching, and distributed systems**
+- 🛠️ Building products focused on **effective utilization**
+- 🎓 **Final Year Project (FYP):** Privacy compliance tool to detect **GDPR & PDPA violations** in website privacy policies
+- 🧠 Involving my **left brain and fingers** to code better, every day
 
 
 ### 🌐 Socials:
