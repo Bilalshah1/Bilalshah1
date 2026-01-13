@@ -43,7 +43,13 @@
 </div>
 
 
+## <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30"/> LeetCode Stats
+
+<div align="center">
+  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bilalshah123?ext=activity&theme=dark)
+
+</div>
 
 ### 📊 GitHub Stats
 
