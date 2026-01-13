@@ -43,9 +43,7 @@
 </div>
 
 
-![Leetcode Stats](https://leetcard.bilalshah123/BilalShah?ext=activity)
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/bilalshah123?ext=activity&theme=dark)
 
 ### 📊 GitHub Stats
 
