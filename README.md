@@ -43,9 +43,7 @@
 </div>
 
 
-
-  ### <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="22" /> LeetCode Stats
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?ext=activity)
 
 
 
