@@ -53,8 +53,8 @@
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Bilalshah1&style=flat-square&color=blue" alt="Profile Views" />
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bilalshah1&theme=radical" alt="Contribution Graph" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bilalshah1&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Bilal's GitHub Stats" />
+  </p>
 
 </div>
